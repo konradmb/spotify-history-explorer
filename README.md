@@ -16,7 +16,7 @@ Explore your Spotify listening history exported with [Download your data](https:
 2. Run all cells in `process-data.ipynb` Jupyter notebook
 
 ## SEO description
-(assisted by ChatGPT)
+(assisted by ChatGPT, don't read it if you value your time - it's the same as above)
 
 The Spotify history explorer is a Jupyter notebook designed to help you explore and analyze your personal Spotify listening history. It utilizes the data exported from Spotify's "Download your data" feature, providing you with valuable insights into your music consumption habits.
 
